@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="22207e54-3199-4bea-add5-20452f23baf4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Compressor-Decompressor/Image/Compressedfile.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Compressor-Decompressor/Image/Decompressedfile.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Compressor-Decompressor/Image/FileforCompressing.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CompressorandDecompressor" beforeDir="false" />
+    <list default="true" id="ac0a6662-4064-4a4c-9d5d-006dbadc731b" name="Changes" comment="changed background color">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/untitled.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compressor-Decompressor/Compressor-Decompressor.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Compressor-Decompressor/Compressor-Decompressor.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compressor-Decompressor/src/main/java/GUI/AppFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/Compressor-Decompressor/src/main/java/GUI/AppFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Compressor-Decompressor/GUI/AppFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Compressor-Decompressor/GUI/AppFrame.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +19,7 @@
     <option name="done" value="true" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -24,8 +27,7 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
-  <component name="ProjectId" id="2SkoYAskGKKRjbj0xGx3Oj2x1zc" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="2Sku8eROFrzYjp29G8FOJ2HIQVr" />
   <component name="ProjectViewState">
     <option name="flattenPackages" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -34,17 +36,29 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="comp" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="20" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="GUI.main" />
+      <module name="Compressor-Decompressor" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="22207e54-3199-4bea-add5-20452f23baf4" name="Changes" comment="" />
-      <created>1689699990762</created>
+      <changelist id="ac0a6662-4064-4a4c-9d5d-006dbadc731b" name="Changes" comment="" />
+      <created>1689702749443</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1689699990762</updated>
+      <updated>1689702749443</updated>
     </task>
     <servers />
   </component>
@@ -58,5 +72,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="changed background color" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed background color" />
   </component>
 </project>

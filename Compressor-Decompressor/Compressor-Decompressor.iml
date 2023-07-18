@@ -1,4 +1,4 @@
-README.md<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
@@ -7,6 +7,8 @@ README.md<?xml version="1.0" encoding="UTF-8"?>
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="untitled" level="project" />
+    <orderEntry type="library" name="compressor_decompressor" level="project" />
     <orderEntry type="module" module-name="untitled" />
   </component>
 </module>

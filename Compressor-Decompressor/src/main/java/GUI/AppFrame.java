@@ -20,7 +20,7 @@ public class AppFrame extends JFrame implements ActionListener {
         c.setLayout(new BorderLayout());
 
         JPanel headingPanel = new JPanel(); // Create a panel for the heading
-        headingPanel.setBackground(new Color(16, 13, 13)); // Set background color
+        headingPanel.setBackground(new Color(51, 54, 105)); // Set background color
         headingPanel.setPreferredSize(new Dimension(getWidth(), 80)); // Set preferred size
 
         JLabel headingLabel = new JLabel("Compressor-Decompressor");
@@ -29,7 +29,7 @@ public class AppFrame extends JFrame implements ActionListener {
         headingPanel.add(headingLabel); // Add the heading label to the heading panel
 
         JPanel buttonPanel = new JPanel(); // Create a panel for the buttons
-        buttonPanel.setBackground(new Color(18, 18, 21)); // Set background color
+        buttonPanel.setBackground(new Color(51, 54, 105)); // Set background color
         buttonPanel.setPreferredSize(new Dimension(getWidth(), 120)); // Set preferred size
 
         compressButton = new JButton("Select file to compress");
